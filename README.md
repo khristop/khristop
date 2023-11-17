@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Challenging projects**
 
-- 👨‍💻 My projects are available at [khristop.com](khristop.com)
+- 👨‍💻 My projects are available at [https://khristop.com](khristop.com)
 
 - 💬 Ask me about **Angular**
 
